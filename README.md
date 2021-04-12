@@ -1,2 +1,2 @@
 # Tugas-Pemrograman-Gui
-<img src = "">
+<img src = "https://github.com/NikePrasetyo/Tugas-Pemrograman-Gui/blob/main/Styles.png">
