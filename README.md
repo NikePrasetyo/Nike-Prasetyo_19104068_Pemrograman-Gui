@@ -3,5 +3,5 @@
 ## Coding
 
 <img src = "https://github.com/NikePrasetyo/Tugas-Pemrograman-Gui/blob/Praktikum_1/Nama.PNG">
-<img src = "">
+<img src = "https://github.com/NikePrasetyo/Tugas-Pemrograman-Gui/blob/Praktikum_1/ke%202.PNG">
 <img src = "">
