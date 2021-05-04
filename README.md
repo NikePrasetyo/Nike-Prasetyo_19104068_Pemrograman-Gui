@@ -5,4 +5,4 @@
 <img src = "https://github.com/NikePrasetyo/Nike-Prasetyo_19104068_Pemrograman-Gui/blob/TEORI-GUI/Calendar%20Widget.png">
 <img src = "https://github.com/NikePrasetyo/Tugas-Pemrograman-Gui/blob/Teori/Calendar%20Widget.png">
 <img src = "https://github.com/NikePrasetyo/Tugas-Pemrograman-Gui/blob/main/Styles.png">
-<img src = "">
+<img src = "https://github.com/NikePrasetyo/Nike-Prasetyo_19104068_Pemrograman-Gui/blob/TEORI-GUI/Tugas%202/Tugas.py.PNG">
